@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Girl Coding" width="280" src=https://tenor.com/view/new-game-ahagon-umiko-programming-gif-13247677>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
