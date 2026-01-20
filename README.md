@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Girl Coding" width="280" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
+<img align="right" alt="Girl Coding" width="280" src=https://tenor.com/view/coding-girl-gif-2332171326726785246>
 
 
 
