@@ -7,9 +7,11 @@
 </p>
 
 ---
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ## 🌟 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **practice & personal projects**
 - 🌱 I’m currently learning **Programming, AI, and Web Development**
