@@ -13,6 +13,7 @@
 
 <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
 - 🔭 I’m currently working on **practice & personal projects**
 - 🌱 I’m currently learning **Programming, AI, and Web Development**
 - 👯 I’m looking to collaborate on **beginner-friendly projects**
