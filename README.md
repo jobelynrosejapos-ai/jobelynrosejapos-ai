@@ -11,7 +11,8 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Girl Coding" width="280" src="https://media.giphy.com/media/[GIF_ID]/giphy.gif">
+
 
 
 - 🔭 I’m currently working on **practice & personal projects**
