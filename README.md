@@ -19,7 +19,7 @@
 - ⚡ Fun fact: **I love learning new skills every day**
 
 ---
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🛠️ Tech Stack
 
 <p align="center">
