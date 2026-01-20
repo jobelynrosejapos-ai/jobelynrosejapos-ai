@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **practice & personal projects**
 - 🌱 I’m currently learning **Programming, AI, and Web Development**
