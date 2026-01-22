@@ -6,4 +6,12 @@
 --- ## 🌟 About Me <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on **practice & personal projects** - 🌱 I’m currently learning **Programming, AI, and Web Development** - 👯 I’m looking to collaborate on **beginner-friendly projects** - 🤔 I’m looking for help with **improving my coding skills** - 💬 Ask me about **my learning journey** - 😄 Pronouns: **she/her** - ⚡ Fun fact: **I love learning new skills every day** ---
+- 🔭 I’m currently working on **practice & personal projects**
+- 🌱 I’m currently learning **Programming, AI, and Web Development**
+- 👯 I’m looking to collaborate on **beginner-friendly projects**
+- 🤔 I’m looking for help with **improving my coding skills**
+- 💬 Ask me about **my learning journey**
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: **I love learning new skills every day**
+  
+---
