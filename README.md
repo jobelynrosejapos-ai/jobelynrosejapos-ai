@@ -1,76 +1,82 @@
-<h1 align="center">
-  Hi there 👋, I'm Jobelyn Rose
-</h1>
+<h2 align="center">✨ Hello World, I'm Jobelyn Rose ✨</h2>
+<h4 align="center">Aspiring Developer | AI & Programming Learner 🚀</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Learning+AI+%26+Programming;Future+Developer+in+Progress+🚀" />
+  <img src="https://komarev.com/ghpvc/?username=jobelynrosejapos-ai&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
 
+## 🌸 About Me
 
-## 🌟 About Me
+Hi! I'm **Jobelyn Rose**, a beginner developer who loves learning new things every day.  
+I’m currently exploring **programming, AI, and web development**, and I enjoy building small projects while improving my skills step by step.
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-
-
-- 🔭 I’m currently working on **practice & personal projects**
-- 🌱 I’m currently learning **Programming, AI, and Web Development**
-- 👯 I’m looking to collaborate on **beginner-friendly projects**
-- 🤔 I’m looking for help with **improving my coding skills**
-- 💬 Ask me about **my learning journey**
-- 😄 Pronouns: **she/her**
-- ⚡ Fun fact: **I love learning new skills every day**
-
+- 🌱 Learning **Python, JavaScript & AI basics**
+- 💻 Practicing through **personal & mini projects**
+- 🤝 Open to **beginner-friendly collaborations**
+- 🎯 Goal: Become a confident **future developer**
+- 😄 Pronouns: **She/Her**
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 What I’m Working On
+
+- 🔹 Coding practice & exercises  
+- 🔹 Simple web pages  
+- 🔹 AI & programming fundamentals  
+- 🔹 Improving problem-solving skills  
+
+---
+
+## 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jobelynrosejapos-ai&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobelynrosejapos-ai&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobelynrosejapos-ai&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jobelynrosejapos-ai&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobelynrosejapos-ai&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🌍 Most Used Languages
 
 <p align="center">
-  <img src="https://github.com/jobelynrosejapos-ai/jobelynrosejapos-ai/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobelynrosejapos-ai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/jobelynrosejapos-ai/jobelynrosejapos-ai/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📬 Let’s Connect
 
 <p align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-pink?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ Thanks for visiting my profile! ✨  
+  🌷 <b>Thank you for stopping by!</b>  
   <br/>
-  <b>Feel free to explore and follow my journey 🚀</b>
+  Learning one line of code at a time 💻✨
 </p>
