@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on **practice & personal projects**
 - 👯 I’m looking to collaborate on **beginner-friendly projects**
-- 🤔 I’m looking for help with **improving my coding skills***
 - 😄 Pronouns: **she/her**
 
   
