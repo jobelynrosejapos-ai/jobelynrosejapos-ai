@@ -15,13 +15,7 @@
 - ⚡ Fun fact: **I love learning new skills**
   
 ---
-- 🔭 Currently working on practice & personal projects  
-- 🌱 Learning HTML, CSS, and AI
-- 👯 I’m looking to collaborate on **beginner-friendly projects** 
-- 💻 Improving my coding skills  
-- 🤝 Open to beginner-friendly collaborations  
-- 🎯 Goal: Become a confident developer  
-- 😄 Pronouns: She/Her
+
 
 
 
