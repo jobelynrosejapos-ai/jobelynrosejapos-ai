@@ -7,12 +7,10 @@
 
 
 - 🔭 I’m currently working on **practice & personal projects**
-- 🌱 I’m currently learning **Programming, AI, and Web Development**
 - 👯 I’m looking to collaborate on **beginner-friendly projects**
-- 🤔 I’m looking for help with **improving my coding skills**
-- 💬 Ask me about **my learning journey**
+- 🤔 I’m looking for help with **improving my coding skills***
 - 😄 Pronouns: **she/her**
-- ⚡ Fun fact: **I love learning new skills**
+
   
 ---
 
